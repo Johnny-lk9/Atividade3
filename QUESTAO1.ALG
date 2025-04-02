@@ -42,4 +42,5 @@ Inicio
       escreva("Limpeza e Utensilios Domesticos")
    outrocaso
       escreva("Codigo invalido ")
+   fimescolha
 Fimalgoritmo
